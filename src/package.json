@@ -1,0 +1,28 @@
+{
+  "name": "starmoozie-nextui",
+  "main": "/index.js",
+  "dependencies": {
+    "@craco/craco": "7.1.0",
+    "@hookform/resolvers": "2.9.11",
+    "@nextui-org/react": "latest",
+    "lodash": "4.17.21",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-dropzone-uploader": "2.11.0",
+    "react-hook-form": "7.43.5",
+    "react-iconly": "2.2.5",
+    "react-router-dom": "6.9.0",
+    "react-scripts": "^4.0.0",
+    "use-dark-mode": "2.3.1",
+    "yup": "1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "ReactJs With NextUI",
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  }
+}
