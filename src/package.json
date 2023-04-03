@@ -20,9 +20,9 @@
   "keywords": [],
   "description": "ReactJs With NextUI",
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
 }
