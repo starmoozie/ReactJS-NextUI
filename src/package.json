@@ -20,9 +20,9 @@
   "keywords": [],
   "description": "ReactJs With NextUI",
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "start": "npm start",
+    "build": "npm build",
+    "test": "npm test",
     "eject": "react-scripts eject"
   }
 }
